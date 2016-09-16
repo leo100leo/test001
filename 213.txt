@@ -6,10 +6,6 @@ new 789
 
 new 000
 
-new001 001
+new one 001
 
-new002 002
-
-new003 003
-
-new004 004
+new two 002
